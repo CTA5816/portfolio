@@ -2,7 +2,7 @@
 Portfolio of code I've written for various projects. 
 
 ## full_pipeline.py
-This file converts raw R2C2 read data from a Nanopore sequencer into processed .csv files. I wrote this for the Molecular Information Systems Lab at the University of Washington for their DNA data storage + Cas12a RAM project. 
+This file converts raw R2C2 read data from a Nanopore sequencer into processed .csv files. I wrote this for the Molecular Information Systems Lab at the University of Washington for their DNA data storage + Cas12a RAM project. No other contributors wrote code for this project.
 
 Note: This script was highly project-specific and depends on files which are not publicly available, so a user will not be able to run this on their own.
 
